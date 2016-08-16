@@ -1,0 +1,169 @@
+
+
+
+body{
+
+  font-family:Verdana, Sans-serif; 
+  background: #ffffb3;
+}
+
+/**********header-nav**********/
+
+.navbar{
+
+  height: 100px;
+}
+ #nav-list{
+
+  font-size: 20px;
+}
+
+#nav-list a{
+  color:  #ffcc00;
+
+}
+
+#nav-list a:hover{
+
+  color: red;
+  text-shadow: 0.5px 0.5px black;
+  background-color: #ffcc00;
+}
+.navbar-nav>li>a{
+
+  margin-top: 25px;
+}
+.navbar-toggle{
+  margin-top: 35px;
+}
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+
+h1{
+
+  color: #ffcc00;
+}
+
+#menu{
+    margin-top: 140px;
+    margin-bottom: 28px;
+}
+
+
+
+/*h1{
+
+   text-align: center;
+   margin-top: 100px;
+   margin-bottom: 50px;
+}*/
+
+h3{
+
+  
+ 
+ border:1px solid black ;
+ font-size: 1.3em;
+  
+  
+  
+  }
+
+  .chicken:hover{
+    color: #ffff66;
+    background-color: #3399ff;
+    cursor: pointer;
+   
+  }
+  .chicken{
+      background-color: #ffff66;
+      color: #3399ff;
+  }
+.beef:hover{
+  background-color: #bf8040;
+  color: #66ff99;
+  cursor: pointer;
+  
+}
+.beef{
+  background-color:  #66ff99;
+  color: #bf8040;
+}
+
+
+.sushi:hover{
+
+  background-color: white;
+  color: #ff0066;
+  cursor: pointer;
+ 
+}
+.sushi{
+
+  background-color: #ff0066;
+  color: white;
+}
+
+.sub {
+
+  
+  position: absolute;
+  top: -21px;
+  right: -1px;
+  padding:0px;
+  width: 76px;
+  }
+
+
+
+.section1 {
+
+  background-color: #222;
+  color: #ffcc00;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  padding-top: 0px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  position: relative;
+ 
+  
+}
+.description{
+  margin-top: 30px;
+
+
+}
+
+/*#image{
+
+  height: 600px;
+  width: 900px;
+}*/
+
+.navbar-collapse{
+  background: #222;
+  
+}
+
+.navbar-brand>h1:hover{
+
+  
+  color: red; 
+  
+  
+}
+
+
+
+#btn>a{
+
+  text-decoration: none;
+  width: auto;
+}
+
+
+
